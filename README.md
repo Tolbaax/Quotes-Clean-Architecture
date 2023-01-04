@@ -1,6 +1,6 @@
 # Random Quote - Clean Architecture
 
-This project is a starting point for a Clean Architecture 
+#### The main goal is to build readable, maintainable, testable and hight-quality flutter app.
 
 ## `The Clean Architecture`
 
@@ -10,6 +10,6 @@ This project is a starting point for a Clean Architecture
 
 ![2023-01-04 (5)](https://user-images.githubusercontent.com/68785353/210469211-eae0fb6d-114b-48f2-90b3-199a06fa3511.png)
 
-## `Random Quote UI`
+## `App Screenshot`
 
 ![UI](https://user-images.githubusercontent.com/68785353/210469394-cffa0a69-8367-46ed-8b44-d9318c2b178a.png)
